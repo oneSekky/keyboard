@@ -1,0 +1,38 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3074df4a-12f8-4274-b6b1-58008017d5f8")
+	(paper "A4")
+	(lib_symbols)
+	(text "5/3/26"
+		(exclude_from_sim no)
+		(at 210.566 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1a5367c2-8338-4c10-acef-8e1e975be363")
+	)
+	(text "Power Circuitry \n"
+		(exclude_from_sim no)
+		(at 195.326 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2e9dfda0-cfbb-483a-94e7-c9ab15845301")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.748 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3b855e96-591c-46af-ac5f-13425cc65a87")
+	)
+)

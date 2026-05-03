@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bd776fee-6e95-44db-8f4a-4050fd1d2c0c")
+	(paper "A4")
+	(lib_symbols)
+	(text "Trackball Circuitry"
+		(exclude_from_sim no)
+		(at 195.58 189.484 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8bd7e6c7-0aa5-4dcf-aafb-51a3330bde3b")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.748 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cc202117-1323-419f-8b99-b307dbab3ae9")
+	)
+)

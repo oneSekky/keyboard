@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "834a3a26-b86c-4f58-b0b9-9ff3e88cc8f3")
+	(paper "A4")
+	(lib_symbols)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7f19269e-2145-4b93-a963-424cdc7d64c2")
+	)
+	(text "LED Circuitry"
+		(exclude_from_sim no)
+		(at 193.04 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8295fac5-37dd-40ce-b88b-f96bb8246caa")
+	)
+)

@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "cf8fbf40-2e21-45f4-b063-ee5f57075588")
+	(paper "A4")
+	(lib_symbols)
+	(text "Bluetooth Circuitry\n"
+		(exclude_from_sim no)
+		(at 195.58 189.992 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7637c5e6-a0ce-4ff3-9187-90be9e2a457f")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dda9295e-a23a-4f27-afbe-f629238595ee")
+	)
+)

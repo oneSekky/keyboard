@@ -2,9 +2,464 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 20839dd3-8f37-4bf9-a231-e8a616316450)
+	(uuid "20839dd3-8f37-4bf9-a231-e8a616316450")
 	(paper "A4")
 	(lib_symbols)
+	(text "5/3/26"
+		(exclude_from_sim no)
+		(at 210.566 193.548 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "56578615-ec75-43b7-86c2-a1046c95a952")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.748 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ac9892ac-a2b3-42eb-97b7-474c025e033a")
+	)
+	(text "Block Diagram"
+		(exclude_from_sim no)
+		(at 194.564 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "e0f964b2-9495-4f68-85e4-2bfbe1fc989a")
+	)
+	(sheet
+		(at 127 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "30dfd41c-9c22-4a89-a4a2-144612b49e64")
+		(property "Sheetname" "Trackball"
+			(at 127 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "trackball.kicad_sch"
+			(at 127 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "3eec937a-adbf-4c8a-bed1-093b3489a4a3")
+		(property "Sheetname" "Display"
+			(at 177.8 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 177.8 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4e7d67ed-83ba-4905-813b-dfd6c8ce99a0")
+		(property "Sheetname" "MCU"
+			(at 127 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 127 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Field2" ""
+			(at 127 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 127)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "880c2070-d9f9-48e1-89be-a8d8c96f41ea")
+		(property "Sheetname" "LED"
+			(at 25.4 126.2884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "led.kicad_sch"
+			(at 25.4 165.6846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "8c6c3076-fb87-4925-b832-0f7fcf779d13")
+		(property "Sheetname" "Encoders"
+			(at 76.2 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "encoders.kicad_sch"
+			(at 76.2 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a0fd5433-e9c6-4f73-a6fb-218930de19a8")
+		(property "Sheetname" "BLE"
+			(at 177.8 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ble.kicad_sch"
+			(at 177.8 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e3c46f0a-4838-4d4b-8e21-c6e226861334")
+		(property "Sheetname" "Power"
+			(at 25.4 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 25.4 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 76.2)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e83535a0-b720-475c-b9dc-aa82d73faf59")
+		(property "Sheetname" "Key Matrix"
+			(at 25.4 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "key_matrix.kicad_sch"
+			(at 25.4 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 25.4)
+		(size 38.1 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f9911553-1fa2-4031-858d-9d19bf7a108d")
+		(property "Sheetname" "USB"
+			(at 76.2 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb.kicad_sch"
+			(at 76.2 64.0846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")

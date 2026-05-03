@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "4b736bef-1299-4e58-9a2e-9eca94298d88")
+	(paper "A4")
+	(lib_symbols)
+	(text "Encoders Circuitry\n"
+		(exclude_from_sim no)
+		(at 195.58 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7b6276c2-b4e6-4006-b4d5-42197656689b")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "be613f5b-2dae-4192-891a-71d484ae0510")
+	)
+)

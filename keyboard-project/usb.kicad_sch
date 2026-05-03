@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "d1da0ca7-0a87-4a0a-a134-e5402fe8d3a1")
+	(paper "A4")
+	(lib_symbols)
+	(text "USB Circuitry\n"
+		(exclude_from_sim no)
+		(at 194.056 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d367813-ca3c-4fd8-b821-90ab94215dff")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.24 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "d791b04f-29ec-483e-ae8c-46fd694d2b13")
+	)
+)

@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "c0df69ff-d601-4de6-86a2-123c96d019c6")
+	(paper "A4")
+	(lib_symbols)
+	(text "MCU Circuitry\n\n"
+		(exclude_from_sim no)
+		(at 194.056 190.754 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1420168e-87f1-4429-8d3b-c8256a76dad8")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.748 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "7e07fc4c-71e7-4ad5-92d4-1592866c30f7")
+	)
+)

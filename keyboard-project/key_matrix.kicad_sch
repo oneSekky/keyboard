@@ -1,0 +1,28 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "af46a854-55bd-4ab7-9097-ad3dee6d6aad")
+	(paper "A4")
+	(lib_symbols)
+	(text "Keyboard Key Matrix Circuitry\n"
+		(exclude_from_sim no)
+		(at 201.168 189.738 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "41dfa794-7d39-4e59-96f1-bd2d9ab9a7f1")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 269.494 193.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c4a0be14-d8ed-4b2a-9a10-294c37bb97a1")
+	)
+)
