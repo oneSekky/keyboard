@@ -1,0 +1,32 @@
+{
+	"$schema": "https://go.kicad.org/pcm/schemas/v1",
+	"name": "dragonmux (Dark)",
+	"description": "dragonmux' dark theme",
+	"description_full": "A dark theme designed by dragonmux",
+	"identifier": "network.dragonmux.dragonmux",
+	"type": "colortheme",
+	"author": {
+		"name": "Rachel Mant",
+		"contact": {
+			"github": "https://github.com/dragonmux"
+		}
+	},
+	"maintainer": {
+		"name": "Rachel Mant",
+		"contact": {
+			"github": "https://github.com/dragonmux"
+		}
+	},
+	"license": "CC0-1.0",
+	"resources": {
+		"GitHub": "https://github.com/dragonmux/kicad-dragonmux-theme"
+	},
+	"versions": [
+		{
+			"version": "2025.09.26",
+			"status": "stable",
+			"kicad_version": "9.0",
+			"install_size": 13185
+		}
+	]
+}
