@@ -2074,9 +2074,9 @@
 		)
 		(uuid "d73edee5-d9b0-4f73-99dc-4ab31a808ae7")
 	)
-	(text "Debug header"
+	(text "BLE Debug header"
 		(exclude_from_sim no)
-		(at 260.604 79.756 0)
+		(at 257.556 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2631,7 +2631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 204.1652 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -2791,7 +2791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 191.4652 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -2871,7 +2871,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 99.314 92.964 90)
 			(hide yes)
 			(show_name no)
