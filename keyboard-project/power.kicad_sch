@@ -3346,6 +3346,16 @@
 	)
 	(polyline
 		(pts
+			(xy 72.39 67.31) (xy 72.39 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a67ed559-5ec4-49db-b079-c16333fe2ca1")
+	)
+	(polyline
+		(pts
 			(xy 53.34 146.05) (xy 109.22 146.05)
 		)
 		(stroke
