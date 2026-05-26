@@ -1581,7 +1581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x14_P1.00mm_Vertical"
 			(at 31.75 43.18 0)
 			(hide yes)
 			(show_name no)

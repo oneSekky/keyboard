@@ -2306,7 +2306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 83.82 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2455,7 +2455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Walsin_WLFM201209x"
 			(at 167.64 88.138 90)
 			(hide yes)
 			(show_name no)
@@ -2693,7 +2693,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Walsin_WLFM201209x"
 			(at 135.89 83.058 90)
 			(hide yes)
 			(show_name no)

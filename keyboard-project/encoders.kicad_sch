@@ -929,7 +929,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Sxxxx"
 			(at 115.57 51.816 0)
 			(hide yes)
 			(show_name no)
@@ -1099,7 +1099,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Sxxxx"
 			(at 166.37 51.816 0)
 			(hide yes)
 			(show_name no)
@@ -1191,7 +1191,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Bourns_Horizontal_PEC12R-2x17F-Sxxxx"
 			(at 64.77 51.816 0)
 			(hide yes)
 			(show_name no)

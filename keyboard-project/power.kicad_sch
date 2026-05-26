@@ -4609,7 +4609,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MCP1826S-3302E_DB:SOT230P700X180-4N"
 			(at 71.12 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -4774,7 +4774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 246.38 36.83 0)
 			(hide yes)
 			(show_name no)

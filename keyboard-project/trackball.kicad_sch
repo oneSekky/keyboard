@@ -2269,7 +2269,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "PMW3360DM-T2QU:PMW3360"
 			(at 149.86 96.52 0)
 			(hide yes)
 			(show_name no)
