@@ -2070,7 +2070,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 22.606 39.624 90)
 			(hide yes)
 			(show_name no)
@@ -3248,7 +3248,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 22.606 26.924 90)
 			(hide yes)
 			(show_name no)

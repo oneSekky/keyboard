@@ -3188,7 +3188,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical"
 			(at 259.08 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3274,7 +3274,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HOLYIOT-18010-NRF52840:XCVR_HOLYIOT-18010-NRF52840"
+		(property "Footprint" "kicad-footprints:XCVR_HOLYIOT-18010-NRF52840"
 			(at 148.59 88.9 0)
 			(hide yes)
 			(show_name no)
