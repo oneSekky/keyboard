@@ -3216,16 +3216,6 @@
 	)
 	(wire
 		(pts
-			(xy 210.82 107.95) (xy 210.82 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71145668-9343-4403-8aef-87723a89ef3b")
-	)
-	(wire
-		(pts
 			(xy 118.11 97.79) (xy 128.27 97.79)
 		)
 		(stroke
@@ -3406,7 +3396,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 118.11) (xy 215.9 118.11)
+			(xy 201.93 118.11) (xy 210.82 118.11)
 		)
 		(stroke
 			(width 0)
@@ -4823,6 +4813,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 68.58 170.18 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5088ab3c-44f3-4474-aa32-f918db263710")
+		(property "Reference" "#PWR0107"
+			(at 68.58 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 68.58 175.26 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 68.58 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 68.58 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "afa1d40c-15e8-4d94-a8bf-7b2238d8212e")
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450/e3c46f0a-4838-4d4b-8e21-c6e226861334"
+					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 110.49 97.79 270)
 		(unit 1)
@@ -5061,7 +5129,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 215.9 118.11 0)
+		(at 210.82 118.11 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5072,7 +5140,7 @@
 		(fields_autoplaced yes)
 		(uuid "5d96b437-0428-47d4-b9da-fcdae4d81246")
 		(property "Reference" "#PWR021"
-			(at 215.9 121.92 0)
+			(at 210.82 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5083,7 +5151,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 215.9 113.03 0)
+			(at 210.82 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5093,7 +5161,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 118.11 0)
+			(at 210.82 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5104,7 +5172,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 118.11 0)
+			(at 210.82 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5115,7 +5183,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 215.9 118.11 0)
+			(at 210.82 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5500,6 +5568,84 @@
 			(project "keyboard-project"
 				(path "/20839dd3-8f37-4bf9-a231-e8a616316450/e3c46f0a-4838-4d4b-8e21-c6e226861334"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 210.82 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "755bf25e-a9a2-475c-bff7-918ac3059e6a")
+		(property "Reference" "#PWR0106"
+			(at 210.82 132.08 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 210.82 123.19 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 210.82 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e0f352d6-720d-4510-83ba-998da8d85d4a")
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450/e3c46f0a-4838-4d4b-8e21-c6e226861334"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -7038,6 +7184,84 @@
 			(project "keyboard-project"
 				(path "/20839dd3-8f37-4bf9-a231-e8a616316450/e3c46f0a-4838-4d4b-8e21-c6e226861334"
 					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 210.82 107.95 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d235c270-f1a6-4a7c-aa01-b3d184581853")
+		(property "Reference" "#PWR0105"
+			(at 210.82 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 210.82 102.87 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 210.82 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "da4a2622-037d-4c0f-8480-f94e5b0835ad")
+		)
+		(instances
+			(project "keyboard-project"
+				(path "/20839dd3-8f37-4bf9-a231-e8a616316450/e3c46f0a-4838-4d4b-8e21-c6e226861334"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
